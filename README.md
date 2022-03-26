@@ -6,7 +6,7 @@ I am Davi Chalita, a Brazilian Developer!
 
 ![Davi Chalita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviChalita&theme=nord&show_icons=true&count_private=true "Davi Chalita's GitHub Stats")
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCHalita&theme=nord&layout=compact&langs_count=8 "Davi Chalita's Top Languages Card")
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviChalita&theme=nord&layout=compact&langs_count=8 "Davi Chalita's Top Languages Card")
 <!-- 
 Here are some ideas to get you started:
 
